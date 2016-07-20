@@ -1,0 +1,41 @@
+@import 'https://fonts.googleapis.com/css?family=Slabo+27px';
+
+.m-t-2 {
+  margin-top: 2em;
+}
+.m-t-10 {
+  margin-top: 10em;
+}
+.m-b-1 {
+  margin-bottom: 1em;
+}
+.m-b-2 {
+  margin-bottom: 2em;
+}
+
+body {
+  min-height: 40em;
+}
+
+article .post-content {
+  font-family: 'Slabo 27px', serif;
+  font-size: 20.7px;
+  text-align: justify;
+}
+
+/**
+ * Icons
+ */
+.icon {
+
+    > svg {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        vertical-align: middle;
+
+        path {
+            fill: #e3e3e3;
+        }
+    }
+}

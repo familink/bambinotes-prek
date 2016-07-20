@@ -1,0 +1,23 @@
+<hr class="m-t-2" />
+<footer class="row" >
+  <div class="small-12 medium-8 large-6 columns">
+    <img src="{{ '/images/bambinotespreksplash.png' | prepend: site.baseurl }}" alt="Bambinotes PreK" />
+  </div>
+  <div class="small-12 medium-8 medium-offset-8 large-6 large-offset-12 columns ">
+    <ul class="contact-list no-bullet text-right">
+      <li>{{ site.title }}</li>
+      <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+      {% if site.github_username %}
+      <li>
+        {% include icon-github.html username=site.github_username %}
+      </li>
+      {% endif %}
+
+      {% if site.twitter_username %}
+      <li>
+        {% include icon-twitter.html username=site.twitter_username %}
+      </li>
+      {% endif %}
+    </ul>
+  </div>
+</footer>
