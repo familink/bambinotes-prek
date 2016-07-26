@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "QuickPic: fotos 10x rápidas!"
+date:   2016-07-22 08:34:19 -0400
+excerpt: "Perfecto cuanto la conexión es más lenta o necesitas subir muchas fotos"
+categories: es caracteristicas
+status: published
+---
+En nuestro afán por cubrir las necesidades mas recurrentes hemos desarrollado una nueva herramienta.
+
+Si tu smartphone o tablet que posee suficiente capacidad de procesamiento, podrás utilizar QuickPic. QuickPic permite subir las fotos entre 10 a 20 veces más rápido. Perfecto cuanto la conexión a internet es más lenta de lo común o en cualquier caso en que necesites subir más rápido la fotografía.
+
+Modo de uso:
+
+En la Barra de Actividades >> Junto al icono de captura de fotos clásico >> Pinchar botón con el ícono de una cámara y un rayo.
+
+![Quickpic: Una cámara y un relámpago]({{ '/images/quickpic-icon.png' | prepend: site.baseurl }})
+
+​Y capturarás una fotografía que subirá mucho mas rápido!
