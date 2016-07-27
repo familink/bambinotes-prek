@@ -11,6 +11,12 @@ email: contacto@bambinotes.com
 description: > # this means to ignore newlines until "baseurl:"
   La nueva libreta de comunicaciones virtual para jardines, escuelas y centros preescolares.
   Comunícate de manera instantánea y privada con los apoderados del jardín, kinder, after school o escuela de lenguaje.
+en:
+  description: The newest communication platform for PreKs and Schools. Get instant and private communication with your school's parents.
+
+es:
+  email: contacto@bambinotes.com
+  description: La nueva libreta de comunicaciones virtual para jardines, escuelas y centros preescolares. Comunícate de manera instantánea y privada con los apoderados del jardín, kinder, after school o escuela de lenguaje.
 baseurl: "/bambinotes-prek" # the subpath of your site, e.g. /blog
 url: "https://familink.github.io" # the base hostname & protocol for your site
 twitter_username: bambinotes_prek
